@@ -1,0 +1,4 @@
+1st step : conda create --prefix venv python=3.9 -y
+2nd step : python setup.py install
+3rd step : python {path of data_ingestion.py}
+
